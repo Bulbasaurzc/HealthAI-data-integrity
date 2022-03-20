@@ -1,4 +1,4 @@
-HealthAI-data-integrity
+NIH-data-integrity
 ==============================
 
 address the data integrity issue in medical image classification domain

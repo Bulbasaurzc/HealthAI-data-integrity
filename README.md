@@ -1,7 +1,7 @@
 NIH-data-integrity
 ==============================
 
-address the data integrity issue in medical image classification domain
+Address the data integrity issue in medical image classification domain
 
 Authors: Patrick Frisella, Zixiao Chen, Ken Zeng
 
